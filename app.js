@@ -1,4 +1,4 @@
-const CONTRACT_ADDRESS = "0xcomingsoon";
+const CONTRACT_ADDRESS = "0xb517e778810ebf6cd7892c08007a7b51ce25f44c";
 const HANTAVIRUS_ENDPOINTS = [
   "https://raw.githubusercontent.com/AntavGlobal/hantavirus-live-data/main/hantavirus.json",
   "./data/hantavirus.json",
